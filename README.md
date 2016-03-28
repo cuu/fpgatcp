@@ -1,2 +1,5 @@
-# fpgatcp
-fpga tcp full  stack 
+# FPGA TCP
+
+Full Tcp stack implemation for FPGA
+
+
